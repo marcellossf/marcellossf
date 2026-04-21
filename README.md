@@ -1,16 +1,25 @@
-## Hi there 👋
+# Marcello
 
-<!--
-**marcellossf/marcellossf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building Python, ML, and automation products.
 
-Here are some ideas to get you started:
+I work on data pipelines, APIs, and real-world applications of machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- end-to-end ML pipelines
+- Python services and inference APIs
+- automation that removes operational work
+
+## Selected work
+
+### tech-challenge-churn-pipeline
+
+End-to-end churn prediction pipeline with exploratory analysis, scikit-learn baselines, a PyTorch MLP, MLflow tracking, and a FastAPI inference layer.
+
+### nlw-01
+
+Web and mobile project created during Rocketseat's Next Level Week, focused on a waste collection marketplace.
+
+## Elsewhere
+
+- LinkedIn: https://www.linkedin.com/in/marcello-wege-seguro/
