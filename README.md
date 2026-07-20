@@ -1,25 +1,38 @@
-# Marcello
+# Marcello Wege Seguro
 
-Building Python, ML, and automation products.
+### AI Engineer | Generative AI, Agentic Systems & Production ML
 
-I work on data pipelines, APIs, and real-world applications of machine learning.
+I'm an AI Engineer at PicPay focused on turning Generative AI, machine learning, and automation into practical, production-ready solutions.
 
-## Current focus
+I build agentic workflows, retrieval and embedding pipelines, Python services, and reproducible ML systems—connecting technical complexity with real business needs.
 
-- end-to-end ML pipelines
-- Python services and inference APIs
-- automation that removes operational work
+## What I work on
 
-## Selected work
+- Generative AI, RAG, and foundation-model integrations
+- AI agents and multi-agent workflow orchestration
+- Production machine learning and MLOps
+- Python backend services and inference APIs
+- AWS, Azure AI, and open-source model ecosystems
 
-### tech-challenge-churn-pipeline
+## Featured projects
 
-End-to-end churn prediction pipeline with exploratory analysis, scikit-learn baselines, a PyTorch MLP, MLflow tracking, and a FastAPI inference layer.
+### [Recommendation System Pipeline](https://github.com/marcellossf/tech-challenge-recommendation-pipeline)
 
-### nlw-01
+Reproducible recommendation pipeline using MovieLens 100K, Scikit-Learn NMF, Neural Collaborative Filtering in PyTorch, DVC, MLflow, Poetry, and Docker.
 
-Web and mobile project created during Rocketseat's Next Level Week, focused on a waste collection marketplace.
+The project compares a linear baseline with a neural approach using temporal evaluation and top-K ranking metrics. In the reproduced experiment, NMF outperformed the short CPU-trained NCF configurations—highlighting the importance of evidence over model complexity.
 
-## Elsewhere
+### [Customer Churn Pipeline](https://github.com/marcellossf/tech-challenge-churn-pipeline)
 
-- LinkedIn: https://www.linkedin.com/in/marcello-wege-seguro/
+End-to-end telecom churn prediction system with exploratory analysis, Scikit-Learn baselines, a PyTorch MLP, MLflow experiment tracking, cost-sensitive threshold selection, and a FastAPI inference layer.
+
+The final model reached 0.8429 ROC-AUC and 0.9091 recall at the evaluation threshold, while the operational threshold was selected using expected business cost.
+
+## Core technologies
+
+`Python` · `PyTorch` · `Scikit-Learn` · `FastAPI` · `MLflow` · `DVC` · `Docker` · `AWS` · `Azure AI` · `Generative AI` · `AI Agents`
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/marcello-wege-seguro/)
+- [Medium](https://medium.com/@marcellowseguro)
